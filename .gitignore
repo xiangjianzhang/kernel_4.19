@@ -2,3 +2,11 @@
 *.cmd
 *.a
 *.tmp
+.tmp_*
+*.so
+*.a
+*.modules
+*.ko
+*.builtin
+*.order
+*.d
